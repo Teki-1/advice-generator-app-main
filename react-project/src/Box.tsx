@@ -1,5 +1,6 @@
 import RandomButton from "./RandomButton";
-import Divider from "./assets/images/pattern-divider-desktop.svg";
+import Divider from "./assets/images/pattern-divider-desktop.svg?react";
+import "./index.css";
 
 export default function Box() {
   return (

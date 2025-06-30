@@ -1,4 +1,4 @@
-import Dice from "./assets/images/icon-dice.svg";
+import Dice from "./assets/images/icon-dice.svg?react";
 
 export default function RandomButton() {
   return (

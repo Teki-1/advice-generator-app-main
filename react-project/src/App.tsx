@@ -1,5 +1,5 @@
-import "./App.css";
-import Box from "./box";
+import "./index.css";
+import Box from "./Box";
 
 function App() {
   return (

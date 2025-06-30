@@ -1,3 +1,11 @@
 html {
   background-color: hsl(218, 23%, 16%);
 }
+.box {
+  background-color: hsl(217, 19%, 24%);
+  width: 600px;
+  height: 400px;
+  align-self: center;
+  margin-left: 38%;
+  margin-top: 18%;
+}
